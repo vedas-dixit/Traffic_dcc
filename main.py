@@ -5,7 +5,7 @@ from my_functions import *
 
 source = 'test_video.mp4' 
 
-save_video = True # want to save video? (when video as source)
+save_video = False # want to save video? (when video as source)
 show_video=True # set true when using video file
 save_img=False  # set true when using only image file to save the image
 # when using image as input, lower the threshold value of image classification

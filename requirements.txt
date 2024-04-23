@@ -5,4 +5,8 @@ torchvision
 numpy
 tqdm
 pandas
+pyyaml
+requests
+seaborn
+scipy
 matplotlib
